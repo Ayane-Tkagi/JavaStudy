@@ -1,0 +1,59 @@
+@media  screen and (max-width: 479px) {
+    .wrapper {
+        width: 200px;
+        height: auto;
+        float: none;
+        .header{
+            width: 200px;
+            height: 200px;
+        }
+        .side {
+            width:200px;	
+        }
+        .box1{
+            float: none;
+            margin: 0px 70px 0px 90px;
+            
+        }.box2{
+            float: none;
+            margin: 0px 70px 0px 90px;
+            border solid: 10px； #ffff;
+	border-width:0px 10px 0px 10px;
+            
+        }.box3{
+            float: none;
+            margin: 0px 70px 0px 90px
+            
+        }
+        .content{
+            width: 200px;
+        }
+        .content-top{
+            width: 200px;
+        }
+        .box4{
+            float: left;
+            margin: 30px 0px 0px 30px;
+        }
+        
+        .box5{
+            float: left;
+            margin: 30px 0px 0px 30px;
+        }
+        
+        .box6{
+            float: left;
+            margin: 30px 0px 0px 30px;
+        }
+        
+        
+        .footer{
+            width: 200px;
+        }
+        
+    
+
+    
+    
+    }
+    
